@@ -11,9 +11,8 @@
   <script>
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
-        .jsonUrl('../datasets/miserables.json')
+        .jsonUrl('../datasets/nodes.json')
         .nodeLabel('id')
-        .nodeAutoColorBy('group')
         .linkDirectionalParticles("value")
         .linkDirectionalParticleSpeed(d => d.value * 0.001);
   </script>

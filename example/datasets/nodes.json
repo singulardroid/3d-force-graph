@@ -1,0 +1,6506 @@
+{
+"nodes": [
+	{
+		"id" : "google.com"
+	},
+	{
+		"id" : "youtube.com"
+	},
+	{
+		"id" : "facebook.com"
+	},
+	{
+		"id" : "baidu.com"
+	},
+	{
+		"id" : "wikipedia.org"
+	},
+	{
+		"id" : "yahoo.com"
+	},
+	{
+		"id" : "reddit.com"
+	},
+	{
+		"id" : "google.co.in"
+	},
+	{
+		"id" : "qq.com"
+	},
+	{
+		"id" : "amazon.com"
+	},
+	{
+		"id" : "taobao.com"
+	},
+	{
+		"id" : "tmall.com"
+	},
+	{
+		"id" : "twitter.com"
+	},
+	{
+		"id" : "vk.com"
+	},
+	{
+		"id" : "live.com"
+	},
+	{
+		"id" : "sohu.com"
+	},
+	{
+		"id" : "instagram.com"
+	},
+	{
+		"id" : "google.co.jp"
+	},
+	{
+		"id" : "sina.com.cn"
+	},
+	{
+		"id" : "jd.com"
+	},
+	{
+		"id" : "weibo.com"
+	},
+	{
+		"id" : "360.cn"
+	},
+	{
+		"id" : "google.de"
+	},
+	{
+		"id" : "google.co.uk"
+	},
+	{
+		"id" : "google.com.br"
+	},
+	{
+		"id" : "list.tmall.com"
+	},
+	{
+		"id" : "google.fr"
+	},
+	{
+		"id" : "google.ru"
+	},
+	{
+		"id" : "yandex.ru"
+	},
+	{
+		"id" : "netflix.com"
+	},
+	{
+		"id" : "google.it"
+	},
+	{
+		"id" : "google.com.hk"
+	},
+	{
+		"id" : "linkedin.com"
+	},
+	{
+		"id" : "t.co"
+	},
+	{
+		"id" : "google.es"
+	},
+	{
+		"id" : "pornhub.com"
+	},
+	{
+		"id" : "twitch.tv"
+	},
+	{
+		"id" : "alipay.com"
+	},
+	{
+		"id" : "xvideos.com"
+	},
+	{
+		"id" : "ebay.com"
+	},
+	{
+		"id" : "yahoo.co.jp"
+	},
+	{
+		"id" : "google.ca"
+	},
+	{
+		"id" : "google.com.mx"
+	},
+	{
+		"id" : "bing.com"
+	},
+	{
+		"id" : "ok.ru"
+	},
+	{
+		"id" : "microsoft.com"
+	},
+	{
+		"id" : "imgur.com"
+	},
+	{
+		"id" : "mail.ru"
+	},
+	{
+		"id" : "aliexpress.com"
+	},
+	{
+		"id" : "imdb.com"
+	},
+	{
+		"id" : "hao123.com"
+	},
+	{
+		"id" : "msn.com"
+	},
+	{
+		"id" : "csdn.net"
+	},
+	{
+		"id" : "tumblr.com"
+	},
+	{
+		"id" : "wordpress.com"
+	},
+	{
+		"id" : "wikia.com"
+	},
+	{
+		"id" : "office.com"
+	},
+	{
+		"id" : "google.com.tr"
+	},
+	{
+		"id" : "livejasmin.com"
+	},
+	{
+		"id" : "amazon.co.jp"
+	},
+	{
+		"id" : "deloton.com"
+	},
+	{
+		"id" : "apple.com"
+	},
+	{
+		"id" : "google.com.au"
+	},
+	{
+		"id" : "paypal.com"
+	},
+	{
+		"id" : "google.com.tw"
+	},
+	{
+		"id" : "whatsapp.com"
+	},
+	{
+		"id" : "popads.net"
+	},
+	{
+		"id" : "blogspot.com"
+	},
+	{
+		"id" : "bongacams.com"
+	},
+	{
+		"id" : "detail.tmall.com"
+	},
+	{
+		"id" : "google.pl"
+	},
+	{
+		"id" : "microsoftonline.com"
+	},
+	{
+		"id" : "github.com"
+	},
+	{
+		"id" : "google.co.id"
+	},
+	{
+		"id" : "xhamster.com"
+	},
+	{
+		"id" : "stackoverflow.com"
+	},
+	{
+		"id" : "pinterest.com"
+	},
+	{
+		"id" : "amazon.de"
+	},
+	{
+		"id" : "diply.com"
+	},
+	{
+		"id" : "amazon.co.uk"
+	},
+	{
+		"id" : "so.com"
+	},
+	{
+		"id" : "google.com.ar"
+	},
+	{
+		"id" : "coccoc.com"
+	},
+	{
+		"id" : "soso.com"
+	},
+	{
+		"id" : "adobe.com"
+	},
+	{
+		"id" : "espn.com"
+	},
+	{
+		"id" : "google.com.ua"
+	},
+	{
+		"id" : "tianya.cn"
+	},
+	{
+		"id" : "googleusercontent.com"
+	},
+	{
+		"id" : "xnxx.com"
+	},
+	{
+		"id" : "savefrom.net"
+	},
+	{
+		"id" : "google.com.pk"
+	},
+	{
+		"id" : "amazon.in"
+	},
+	{
+		"id" : "nicovideo.jp"
+	},
+	{
+		"id" : "dropbox.com"
+	},
+	{
+		"id" : "google.co.th"
+	},
+	{
+		"id" : "google.com.eg"
+	},
+	{
+		"id" : "google.com.sa"
+	},
+	{
+		"id" : "thepiratebay.org"
+	},
+	{
+		"id" : "pixnet.net"
+	},
+	{
+		"id" : "bbc.co.uk"
+	},
+	{
+		"id" : "coinmarketcap.com"
+	},
+	{
+		"id" : "google.nl"
+	},
+	{
+		"id" : "bbc.com"
+	},
+	{
+		"id" : "txxx.com"
+	},
+	{
+		"id" : "craigslist.org"
+	},
+	{
+		"id" : "soundcloud.com"
+	},
+	{
+		"id" : "cnn.com"
+	},
+	{
+		"id" : "nytimes.com"
+	},
+	{
+		"id" : "rakuten.co.jp"
+	},
+	{
+		"id" : "onlinesbi.com"
+	},
+	{
+		"id" : "spotify.com"
+	},
+	{
+		"id" : "google.co.ve"
+	},
+	{
+		"id" : "ask.com"
+	},
+	{
+		"id" : "thestartmagazine.com"
+	},
+	{
+		"id" : "detik.com"
+	},
+	{
+		"id" : "chaturbate.com"
+	},
+	{
+		"id" : "google.co.za"
+	},
+	{
+		"id" : "booking.com"
+	},
+	{
+		"id" : "ebay.de"
+	},
+	{
+		"id" : "naver.com"
+	},
+	{
+		"id" : "roblox.com"
+	},
+	{
+		"id" : "hitcpm.com"
+	},
+	{
+		"id" : "exdynsrv.com"
+	},
+	{
+		"id" : "amazonaws.com"
+	},
+	{
+		"id" : "aparat.com"
+	},
+	{
+		"id" : "tribunnews.com"
+	},
+	{
+		"id" : "openload.co"
+	},
+	{
+		"id" : "vimeo.com"
+	},
+	{
+		"id" : "stackexchange.com"
+	},
+	{
+		"id" : "xinhuanet.com"
+	},
+	{
+		"id" : "chase.com"
+	},
+	{
+		"id" : "mozilla.org"
+	},
+	{
+		"id" : "youth.cn"
+	},
+	{
+		"id" : "google.gr"
+	},
+	{
+		"id" : "steamcommunity.com"
+	},
+	{
+		"id" : "softonic.com"
+	},
+	{
+		"id" : "mediafire.com"
+	},
+	{
+		"id" : "quora.com"
+	},
+	{
+		"id" : "google.com.ph"
+	},
+	{
+		"id" : "flipkart.com"
+	},
+	{
+		"id" : "theguardian.com"
+	},
+	{
+		"id" : "google.com.sg"
+	},
+	{
+		"id" : "walmart.com"
+	},
+	{
+		"id" : "iwanttodeliver.com"
+	},
+	{
+		"id" : "fbcdn.net"
+	},
+	{
+		"id" : "dailymotion.com"
+	},
+	{
+		"id" : "salesforce.com"
+	},
+	{
+		"id" : "google.se"
+	},
+	{
+		"id" : "zhihu.com"
+	},
+	{
+		"id" : "ebay.co.uk"
+	},
+	{
+		"id" : "google.be"
+	},
+	{
+		"id" : "blogger.com"
+	},
+	{
+		"id" : "cnet.com"
+	},
+	{
+		"id" : "nih.gov"
+	},
+	{
+		"id" : "coinbase.com"
+	},
+	{
+		"id" : "google.co.ao"
+	},
+	{
+		"id" : "google.az"
+	},
+	{
+		"id" : "discordapp.com"
+	},
+	{
+		"id" : "fc2.com"
+	},
+	{
+		"id" : "vice.com"
+	},
+	{
+		"id" : "ettoday.net"
+	},
+	{
+		"id" : "etsy.com"
+	},
+	{
+		"id" : "avito.ru"
+	},
+	{
+		"id" : "douyu.com"
+	},
+	{
+		"id" : "providr.com"
+	},
+	{
+		"id" : "google.co.kr"
+	},
+	{
+		"id" : "steampowered.com"
+	},
+	{
+		"id" : "doubleclick.net"
+	},
+	{
+		"id" : "google.com.co"
+	},
+	{
+		"id" : "deviantart.com"
+	},
+	{
+		"id" : "amazon.fr"
+	},
+	{
+		"id" : "babytree.com"
+	},
+	{
+		"id" : "google.at"
+	},
+	{
+		"id" : "amazon.it"
+	},
+	{
+		"id" : "exosrv.com"
+	},
+	{
+		"id" : "twimg.com"
+	},
+	{
+		"id" : "4chan.org"
+	},
+	{
+		"id" : "dailymail.co.uk"
+	},
+	{
+		"id" : "google.com.vn"
+	},
+	{
+		"id" : "globo.com"
+	},
+	{
+		"id" : "pinimg.com"
+	},
+	{
+		"id" : "tokopedia.com"
+	},
+	{
+		"id" : "redd.it"
+	},
+	{
+		"id" : "google.cn"
+	},
+	{
+		"id" : "mercadolivre.com.br"
+	},
+	{
+		"id" : "alibaba.com"
+	},
+	{
+		"id" : "adf.ly"
+	},
+	{
+		"id" : "exoclick.com"
+	},
+	{
+		"id" : "buzzfeed.com"
+	},
+	{
+		"id" : "1688.com"
+	},
+	{
+		"id" : "gmw.cn"
+	},
+	{
+		"id" : "google.com.ng"
+	},
+	{
+		"id" : "washingtonpost.com"
+	},
+	{
+		"id" : "china.com"
+	},
+	{
+		"id" : "bet9ja.com"
+	},
+	{
+		"id" : "cloudfront.net"
+	},
+	{
+		"id" : "wikihow.com"
+	},
+	{
+		"id" : "blastingnews.com"
+	},
+	{
+		"id" : "uol.com.br"
+	},
+	{
+		"id" : "blastingnews.com"
+	},
+	{
+		"id" : "messenger.com"
+	},
+	{
+		"id" : "spankbang.com"
+	},
+	{
+		"id" : "china.com.cn"
+	},
+	{
+		"id" : "google.cz"
+	},
+	{
+		"id" : "bet9ja.com"
+	},
+	{
+		"id" : "redtube.com"
+	},
+	{
+		"id" : "uol.com.br"
+	},
+	{
+		"id" : "force.com"
+	},
+	{
+		"id" : "godaddy.com"
+	},
+	{
+		"id" : "google.ch"
+	},
+	{
+		"id" : "w3schools.com"
+	},
+	{
+		"id" : "sogou.com"
+	},
+	{
+		"id" : "google.no"
+	},
+	{
+		"id" : "newstrend.news"
+	},
+	{
+		"id" : "39.net"
+	},
+	{
+		"id" : "google.ro"
+	},
+	{
+		"id" : "bittrex.com"
+	},
+	{
+		"id" : "people.com.cn"
+	},
+	{
+		"id" : "google.com.pe"
+	},
+	{
+		"id" : "onlinevideoconverter.com"
+	},
+	{
+		"id" : "metropcs.mobi"
+	},
+	{
+		"id" : "google.pt"
+	},
+	{
+		"id" : "slideshare.net"
+	},
+	{
+		"id" : "gearbest.com"
+	},
+	{
+		"id" : "yelp.com"
+	},
+	{
+		"id" : "google.cl"
+	},
+	{
+		"id" : "spotscenered.info"
+	},
+	{
+		"id" : "google.ae"
+	},
+	{
+		"id" : "nextoptim.com"
+	},
+	{
+		"id" : "ladbible.com"
+	},
+	{
+		"id" : "bankofamerica.com"
+	},
+	{
+		"id" : "bestbuy.com"
+	},
+	{
+		"id" : "wellsfargo.com"
+	},
+	{
+		"id" : "mega.nz"
+	},
+	{
+		"id" : "youporn.com"
+	},
+	{
+		"id" : "amazon.es"
+	},
+	{
+		"id" : "yts.am"
+	},
+	{
+		"id" : "dingit.tv"
+	},
+	{
+		"id" : "bp.blogspot.com"
+	},
+	{
+		"id" : "caijing.com.cn"
+	},
+	{
+		"id" : "indiatimes.com"
+	},
+	{
+		"id" : "forbes.com"
+	},
+	{
+		"id" : "dkn.tv"
+	},
+	{
+		"id" : "bukalapak.com"
+	},
+	{
+		"id" : "eastday.com"
+	},
+	{
+		"id" : "kakaku.com"
+	},
+	{
+		"id" : "hulu.com"
+	},
+	{
+		"id" : "huanqiu.com"
+	},
+	{
+		"id" : "google.ie"
+	},
+	{
+		"id" : "youm7.com"
+	},
+	{
+		"id" : "speedtest.net"
+	},
+	{
+		"id" : "breitbart.com"
+	},
+	{
+		"id" : "abs-cbn.com"
+	},
+	{
+		"id" : "foxnews.com"
+	},
+	{
+		"id" : "rambler.ru"
+	},
+	{
+		"id" : "9gag.com"
+	},
+	{
+		"id" : "google.dz"
+	},
+	{
+		"id" : "gamepedia.com"
+	},
+	{
+		"id" : "weather.com"
+	},
+	{
+		"id" : "genius.com"
+	},
+	{
+		"id" : "amazon.ca"
+	},
+	{
+		"id" : "google.dk"
+	},
+	{
+		"id" : "bilibili.com"
+	},
+	{
+		"id" : "slack.com"
+	},
+	{
+		"id" : "hclips.com"
+	},
+	{
+		"id" : "codeonclick.com"
+	},
+	{
+		"id" : "ikea.com"
+	},
+	{
+		"id" : "target.com"
+	},
+	{
+		"id" : "bitauto.com"
+	},
+	{
+		"id" : "wikimedia.org"
+	},
+	{
+		"id" : "liputan6.com"
+	},
+	{
+		"id" : "scribd.com"
+	},
+	{
+		"id" : "wetransfer.com"
+	},
+	{
+		"id" : "livejournal.com"
+	},
+	{
+		"id" : "google.hu"
+	},
+	{
+		"id" : "blogspot.co.id"
+	},
+	{
+		"id" : "irctc.co.in"
+	},
+	{
+		"id" : "telegram.org"
+	},
+	{
+		"id" : "huffingtonpost.com"
+	},
+	{
+		"id" : "google.fi"
+	},
+	{
+		"id" : "files.wordpress.com"
+	},
+	{
+		"id" : "sberbank.ru"
+	},
+	{
+		"id" : "popcash.net"
+	},
+	{
+		"id" : "cnblogs.com"
+	},
+	{
+		"id" : "kinopoisk.ru"
+	},
+	{
+		"id" : "aol.com"
+	},
+	{
+		"id" : "upornia.com"
+	},
+	{
+		"id" : "leboncoin.fr"
+	},
+	{
+		"id" : "google.co.il"
+	},
+	{
+		"id" : "ebay-kleinanzeigen.de"
+	},
+	{
+		"id" : "digikala.com"
+	},
+	{
+		"id" : "ltn.com.tw"
+	},
+	{
+		"id" : "tripadvisor.com"
+	},
+	{
+		"id" : "trello.com"
+	},
+	{
+		"id" : "h8vzwpv.com"
+	},
+	{
+		"id" : "subject.tmall.com"
+	},
+	{
+		"id" : "amazon.cn"
+	},
+	{
+		"id" : "allegro.pl"
+	},
+	{
+		"id" : "velocecdn.com"
+	},
+	{
+		"id" : "archive.org"
+	},
+	{
+		"id" : "ign.com"
+	},
+	{
+		"id" : "aliyun.com"
+	},
+	{
+		"id" : "medium.com"
+	},
+	{
+		"id" : "kompas.com"
+	},
+	{
+		"id" : "gmx.net"
+	},
+	{
+		"id" : "researchgate.net"
+	},
+	{
+		"id" : "zillow.com"
+	},
+	{
+		"id" : "shutterstock.com"
+	},
+	{
+		"id" : "freepik.com"
+	},
+	{
+		"id" : "web.de"
+	},
+	{
+		"id" : "lifedaily.com"
+	},
+	{
+		"id" : "goodreads.com"
+	},
+	{
+		"id" : "zippyshare.com"
+	},
+	{
+		"id" : "thesaurus.com"
+	},
+	{
+		"id" : "battle.net"
+	},
+	{
+		"id" : "sabah.com.tr"
+	},
+	{
+		"id" : "outbrain.com"
+	},
+	{
+		"id" : "google.sk"
+	},
+	{
+		"id" : "usps.com"
+	},
+	{
+		"id" : "utorrent.com"
+	},
+	{
+		"id" : "businessinsider.com"
+	},
+	{
+		"id" : "rutracker.org"
+	},
+	{
+		"id" : "ameblo.jp"
+	},
+	{
+		"id" : "xfinity.com"
+	},
+	{
+		"id" : "livedoor.jp"
+	},
+	{
+		"id" : "ups.com"
+	},
+	{
+		"id" : "mmoframes.com"
+	},
+	{
+		"id" : "gamefaqs.com"
+	},
+	{
+		"id" : "google.kz"
+	},
+	{
+		"id" : "rednet.cn"
+	},
+	{
+		"id" : "youdao.com"
+	},
+	{
+		"id" : "ci123.com"
+	},
+	{
+		"id" : "duckduckgo.com"
+	},
+	{
+		"id" : "wittyfeed.com"
+	},
+	{
+		"id" : "rottentomatoes.com"
+	},
+	{
+		"id" : "livedoor.com"
+	},
+	{
+		"id" : "iqoption.com"
+	},
+	{
+		"id" : "zendesk.com"
+	},
+	{
+		"id" : "1337x.to"
+	},
+	{
+		"id" : "ouo.io"
+	},
+	{
+		"id" : "doublepimp.com"
+	},
+	{
+		"id" : "asos.com"
+	},
+	{
+		"id" : "myway.com"
+	},
+	{
+		"id" : "k618.cn"
+	},
+	{
+		"id" : "speakol.com"
+	},
+	{
+		"id" : "hola.com"
+	},
+	{
+		"id" : "olx.ua"
+	},
+	{
+		"id" : "ndtv.com"
+	},
+	{
+		"id" : "userapi.com"
+	},
+	{
+		"id" : "canva.com"
+	},
+	{
+		"id" : "varzesh3.com"
+	},
+	{
+		"id" : "rarbg.to"
+	},
+	{
+		"id" : "setn.com"
+	},
+	{
+		"id" : "buzzadnetwork.com"
+	},
+	{
+		"id" : "rt.com"
+	},
+	{
+		"id" : "iqiyi.com"
+	},
+	{
+		"id" : "orange.fr"
+	},
+	{
+		"id" : "airbnb.com"
+	},
+	{
+		"id" : "sourceforge.net"
+	},
+	{
+		"id" : "momoshop.com.tw"
+	},
+	{
+		"id" : "reverso.net"
+	},
+	{
+		"id" : "udemy.com"
+	},
+	{
+		"id" : "skype.com"
+	},
+	{
+		"id" : "flickr.com"
+	},
+	{
+		"id" : "mailchimp.com"
+	},
+	{
+		"id" : "gfycat.com"
+	},
+	{
+		"id" : "ouedkniss.com"
+	},
+	{
+		"id" : "hp.com"
+	},
+	{
+		"id" : "samsung.com"
+	},
+	{
+		"id" : "accuweather.com"
+	},
+	{
+		"id" : "wordreference.com"
+	},
+	{
+		"id" : "feedly.com"
+	},
+	{
+		"id" : "weebly.com"
+	},
+	{
+		"id" : "sciencedirect.com"
+	},
+	{
+		"id" : "higheurest.com"
+	},
+	{
+		"id" : "icloud.com"
+	},
+	{
+		"id" : "siteadvisor.com"
+	},
+	{
+		"id" : "ntd.tv"
+	},
+	{
+		"id" : "playstation.com"
+	},
+	{
+		"id" : "slickdeals.net"
+	},
+	{
+		"id" : "capitalone.com"
+	},
+	{
+		"id" : "hotstar.com"
+	},
+	{
+		"id" : "americanexpress.com"
+	},
+	{
+		"id" : "nfl.com"
+	},
+	{
+		"id" : "banvenez.com"
+	},
+	{
+		"id" : "intuit.com"
+	},
+	{
+		"id" : "subscene.com"
+	},
+	{
+		"id" : "haber7.com"
+	},
+	{
+		"id" : "line.me"
+	},
+	{
+		"id" : "hdfcbank.com"
+	},
+	{
+		"id" : "mi.com"
+	},
+	{
+		"id" : "kaskus.co.id"
+	},
+	{
+		"id" : "pipeschannels.com"
+	},
+	{
+		"id" : "fedex.com"
+	},
+	{
+		"id" : "google.com.kw"
+	},
+	{
+		"id" : "sabq.org"
+	},
+	{
+		"id" : "kissanime.ru"
+	},
+	{
+		"id" : "indoxxi.net"
+	},
+	{
+		"id" : "uptodown.com"
+	},
+	{
+		"id" : "onet.pl"
+	},
+	{
+		"id" : "okdiario.com"
+	},
+	{
+		"id" : "rumble.com"
+	},
+	{
+		"id" : "mercadolibre.com.ar"
+	},
+	{
+		"id" : "beeg.com"
+	},
+	{
+		"id" : "ensonhaber.com"
+	},
+	{
+		"id" : "dmm.co.jp"
+	},
+	{
+		"id" : "wish.com"
+	},
+	{
+		"id" : "ultimate-guitar.com"
+	},
+	{
+		"id" : "mercadolibre.com.mx"
+	},
+	{
+		"id" : "uidai.gov.in"
+	},
+	{
+		"id" : "blpmovies.com"
+	},
+	{
+		"id" : "t-online.de"
+	},
+	{
+		"id" : "seasonvar.ru"
+	},
+	{
+		"id" : "patreon.com"
+	},
+	{
+		"id" : "wp.pl"
+	},
+	{
+		"id" : "office365.com"
+	},
+	{
+		"id" : "taboola.com"
+	},
+	{
+		"id" : "homedepot.com"
+	},
+	{
+		"id" : "banggood.com"
+	},
+	{
+		"id" : "yadi.sk"
+	},
+	{
+		"id" : "cricbuzz.com"
+	},
+	{
+		"id" : "gdax.com"
+	},
+	{
+		"id" : "free.fr"
+	},
+	{
+		"id" : "oracle.com"
+	},
+	{
+		"id" : "friv.com"
+	},
+	{
+		"id" : "primosearch.com"
+	},
+	{
+		"id" : "pixabay.com"
+	},
+	{
+		"id" : "giphy.com"
+	},
+	{
+		"id" : "elpais.com"
+	},
+	{
+		"id" : "doublepimpssl.com"
+	},
+	{
+		"id" : "onoticioso.com"
+	},
+	{
+		"id" : "fromdoctopdf.com"
+	},
+	{
+		"id" : "go.com"
+	},
+	{
+		"id" : "myanimelist.net"
+	},
+	{
+		"id" : "theverge.com"
+	},
+	{
+		"id" : "flvto.biz"
+	},
+	{
+		"id" : "theepochtimes.com"
+	},
+	{
+		"id" : "google.co.nz"
+	},
+	{
+		"id" : "bestadbid.com"
+	},
+	{
+		"id" : "dell.com"
+	},
+	{
+		"id" : "wordpress.org"
+	},
+	{
+		"id" : "hdzog.com"
+	},
+	{
+		"id" : "lazada.co.id"
+	},
+	{
+		"id" : "v3rjvtt.com"
+	},
+	{
+		"id" : "macys.com"
+	},
+	{
+		"id" : "google.lk"
+	},
+	{
+		"id" : "torrentz2.eu"
+	},
+	{
+		"id" : "telegraph.co.uk"
+	},
+	{
+		"id" : "taringa.net"
+	},
+	{
+		"id" : "gizmodo.com"
+	},
+	{
+		"id" : "fwbntw.com"
+	},
+	{
+		"id" : "kapanlagi.com"
+	},
+	{
+		"id" : "17ok.com"
+	},
+	{
+		"id" : "fiverr.com"
+	},
+	{
+		"id" : "google.bg"
+	},
+	{
+		"id" : "rediff.com"
+	},
+	{
+		"id" : "ajkzd9h.com"
+	},
+	{
+		"id" : "alicdn.com"
+	},
+	{
+		"id" : "seznam.cz"
+	},
+	{
+		"id" : "lie2anyone.com"
+	},
+	{
+		"id" : "gismeteo.ru"
+	},
+	{
+		"id" : "ebay.com.au"
+	},
+	{
+		"id" : "bloomberg.com"
+	},
+	{
+		"id" : "media.tumblr.com"
+	},
+	{
+		"id" : "espncricinfo.com"
+	},
+	{
+		"id" : "perfecttoolmedia.com"
+	},
+	{
+		"id" : "informationvine.com"
+	},
+	{
+		"id" : "ibm.com"
+	},
+	{
+		"id" : "convert2mp3.net"
+	},
+	{
+		"id" : "nownews.com"
+	},
+	{
+		"id" : "brilio.net"
+	},
+	{
+		"id" : "pandora.com"
+	},
+	{
+		"id" : "123movieshub.to"
+	},
+	{
+		"id" : "ebay.it"
+	},
+	{
+		"id" : "telewebion.com"
+	},
+	{
+		"id" : "tradingview.com"
+	},
+	{
+		"id" : "leagueoflegends.com"
+	},
+	{
+		"id" : "daum.net"
+	},
+	{
+		"id" : "wix.com"
+	},
+	{
+		"id" : "usatoday.com"
+	},
+	{
+		"id" : "repubblica.it"
+	},
+	{
+		"id" : "onedio.com"
+	},
+	{
+		"id" : "citi.com"
+	},
+	{
+		"id" : "chip.de"
+	},
+	{
+		"id" : "albawabhnews.com"
+	},
+	{
+		"id" : "independent.co.uk"
+	},
+	{
+		"id" : "eskimi.com"
+	},
+	{
+		"id" : "kooora.com"
+	},
+	{
+		"id" : "jrj.com.cn"
+	},
+	{
+		"id" : "behance.net"
+	},
+	{
+		"id" : "oload.stream"
+	},
+	{
+		"id" : "shiltirs.com"
+	},
+	{
+		"id" : "glassdoor.com"
+	},
+	{
+		"id" : "gamer.com.tw"
+	},
+	{
+		"id" : "zoho.com"
+	},
+	{
+		"id" : "marca.com"
+	},
+	{
+		"id" : "icicibank.com"
+	},
+	{
+		"id" : "mit.edu"
+	},
+	{
+		"id" : "poloniex.com"
+	}
+],
+"links": [
+	{
+		"source" : "google.com",
+		"target" : "youtube.com",
+		"value" : 7.8
+	},
+	{
+		"source" : "google.com",
+		"target" : "facebook.com",
+		"value" : 3
+	},
+	{
+		"source" : "google.com",
+		"target" : "wikipedia.org",
+		"value" : 1.4
+	},
+	{
+		"source" : "google.com",
+		"target" : "google.co.in",
+		"value" : 1.3
+	},
+	{
+		"source" : "google.com",
+		"target" : "reddit.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.com",
+		"target" : "amazon.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.com",
+		"target" : "yahoo.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.com",
+		"target" : "vk.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com",
+		"target" : "google.ru",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com",
+		"target" : "google.co.id",
+		"value" : 0.6
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "google.com",
+		"value" : 12.4
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "vk.com",
+		"value" : 5
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "google.ru",
+		"value" : 3.7
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "facebook.com",
+		"value" : 3.5
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "google.co.in",
+		"value" : 2.4
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "yandex.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "google.com.ua",
+		"value" : 1.9
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "instagram.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "reddit.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "youtube.com",
+		"target" : "google.co.id",
+		"value" : 1
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "google.com",
+		"value" : 10.7
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "youtube.com",
+		"value" : 8.9
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "twitter.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "yahoo.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "reddit.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "myway.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "instagram.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "google.co.in",
+		"value" : 1.1
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "live.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "facebook.com",
+		"target" : "google.ca",
+		"value" : 0.6
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "qq.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "sina.com.cn",
+		"value" : 2.7
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "zhihu.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "google.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "taobao.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "360.cn",
+		"value" : 1.6
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "csdn.net",
+		"value" : 1.4
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "weibo.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "so.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "baidu.com",
+		"target" : "sohu.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "google.com",
+		"value" : 11.9
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "google.ru",
+		"value" : 7.6
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "youtube.com",
+		"value" : 5.6
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "yandex.ru",
+		"value" : 4.3
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "google.com.ua",
+		"value" : 3.4
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "google.co.in",
+		"value" : 3.4
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "vk.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "facebook.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "wikimedia.org",
+		"value" : 1.3
+	},
+	{
+		"source" : "wikipedia.org",
+		"target" : "google.co.id",
+		"value" : 1
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "google.com",
+		"value" : 9.2
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "youtube.com",
+		"value" : 7
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "facebook.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "google.co.in",
+		"value" : 2.1
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "google.co.id",
+		"value" : 2
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "myway.com",
+		"value" : 1
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "wikipedia.org",
+		"value" : 0.8
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "google.com.tw",
+		"value" : 0.5
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "live.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "yahoo.com",
+		"target" : "amazon.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "google.com",
+		"value" : 11.9
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "youtube.com",
+		"value" : 9.5
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "imgur.com",
+		"value" : 5.7
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "facebook.com",
+		"value" : 3.3
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "twitter.com",
+		"value" : 2.9
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "redd.it",
+		"value" : 2.4
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "twitch.tv",
+		"value" : 1.9
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "google.ca",
+		"value" : 1.7
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "gfycat.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "reddit.com",
+		"target" : "streamable.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "google.com",
+		"value" : 6.7
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "youtube.com",
+		"value" : 6.6
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "wikipedia.org",
+		"value" : 1.9
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "facebook.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "amazon.in",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "yahoo.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "flipkart.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "onlinesbi.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "stackoverflow.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.co.in",
+		"target" : "indiatimes.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "qq.com",
+		"target" : "baidu.com",
+		"value" : 10.7
+	},
+	{
+		"source" : "qq.com",
+		"target" : "list.tmall.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "qq.com",
+		"target" : "sohu.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "qq.com",
+		"target" : "taobao.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "qq.com",
+		"target" : "google.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "qq.com",
+		"target" : "sina.com.cn",
+		"value" : 2.2
+	},
+	{
+		"source" : "qq.com",
+		"target" : "weibo.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "qq.com",
+		"target" : "youtube.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "qq.com",
+		"target" : "google.com.hk",
+		"value" : 1.4
+	},
+	{
+		"source" : "qq.com",
+		"target" : "jd.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "google.com",
+		"value" : 24.7
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "youtube.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "facebook.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "ebay.com",
+		"value" : 2
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "reddit.com",
+		"value" : 2
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "google.co.in",
+		"value" : 1.2
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "yahoo.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "amazon.in",
+		"value" : 0.7
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "google.ru",
+		"value" : 0.6
+	},
+	{
+		"source" : "amazon.com",
+		"target" : "google.ca",
+		"value" : 0.6
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "detail.tmall.com",
+		"value" : 10.1
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "list.tmall.com",
+		"value" : 5.8
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "baidu.com",
+		"value" : 4.1
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "alipay.com",
+		"value" : 4.1
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "google.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "qq.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "youtube.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "google.com.hk",
+		"value" : 1.6
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "360.cn",
+		"value" : 1.4
+	},
+	{
+		"source" : "taobao.com",
+		"target" : "jd.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "list.tmall.com",
+		"value" : 22.4
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "baidu.com",
+		"value" : 20.2
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "taobao.com",
+		"value" : 10.6
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "sohu.com",
+		"value" : 6
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "hao123.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "soso.com",
+		"value" : 4.1
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "detail.tmall.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "pages.tmall.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "login.tmall.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "tmall.com",
+		"target" : "google.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "google.com",
+		"value" : 11.4
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "t.co",
+		"value" : 9.9
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "facebook.com",
+		"value" : 8.3
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "youtube.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "reddit.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "instagram.com",
+		"value" : 2
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "vk.com",
+		"value" : 1
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "google.co.uk",
+		"value" : 0.9
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "twimg.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "twitter.com",
+		"target" : "twitch.tv",
+		"value" : 0.8
+	},
+	{
+		"source" : "vk.com",
+		"target" : "youtube.com",
+		"value" : 11.7
+	},
+	{
+		"source" : "vk.com",
+		"target" : "google.ru",
+		"value" : 9.1
+	},
+	{
+		"source" : "vk.com",
+		"target" : "yandex.ru",
+		"value" : 7.1
+	},
+	{
+		"source" : "vk.com",
+		"target" : "ok.ru",
+		"value" : 3.3
+	},
+	{
+		"source" : "vk.com",
+		"target" : "instagram.com",
+		"value" : 2.9
+	},
+	{
+		"source" : "vk.com",
+		"target" : "google.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "vk.com",
+		"target" : "mail.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "vk.com",
+		"target" : "userapi.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "vk.com",
+		"target" : "aliexpress.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "vk.com",
+		"target" : "google.com.ua",
+		"value" : 1
+	},
+	{
+		"source" : "live.com",
+		"target" : "msn.com",
+		"value" : 9.7
+	},
+	{
+		"source" : "live.com",
+		"target" : "google.com",
+		"value" : 8.5
+	},
+	{
+		"source" : "live.com",
+		"target" : "facebook.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "live.com",
+		"target" : "youtube.com",
+		"value" : 4.1
+	},
+	{
+		"source" : "live.com",
+		"target" : "microsoft.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "live.com",
+		"target" : "skype.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "live.com",
+		"target" : "google.com.tr",
+		"value" : 1.2
+	},
+	{
+		"source" : "live.com",
+		"target" : "yahoo.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "live.com",
+		"target" : "google.com.br",
+		"value" : 1
+	},
+	{
+		"source" : "live.com",
+		"target" : "office.com",
+		"value" : 1
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "list.tmall.com",
+		"value" : 11.7
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "taobao.com",
+		"value" : 5.3
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "baidu.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "360.cn",
+		"value" : 3.5
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "qq.com",
+		"value" : 3
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "sina.com.cn",
+		"value" : 2.2
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "alipay.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "so.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "weibo.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "sohu.com",
+		"target" : "jd.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "youtube.com",
+		"value" : 11.9
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "vk.com",
+		"value" : 11.1
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "google.com",
+		"value" : 6.8
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "facebook.com",
+		"value" : 5.1
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "google.ru",
+		"value" : 3.8
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "yandex.ru",
+		"value" : 2.7
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "twitter.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "google.com.ua",
+		"value" : 1.3
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "ok.ru",
+		"value" : 1.1
+	},
+	{
+		"source" : "instagram.com",
+		"target" : "reddit.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "youtube.com",
+		"value" : 3.6
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "google.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "yahoo.co.jp",
+		"value" : 2.8
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "wikipedia.org",
+		"value" : 2.2
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "amazon.co.jp",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "facebook.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "twitter.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "rakuten.co.jp",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "fc2.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.co.jp",
+		"target" : "nicovideo.jp",
+		"value" : 0.6
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "weibo.com",
+		"value" : 14.2
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "baidu.com",
+		"value" : 13.4
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "sohu.com",
+		"value" : 4.8
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "list.tmall.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "taobao.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "google.com",
+		"value" : 3
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "qq.com",
+		"value" : 2
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "hao123.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "google.com.hk",
+		"value" : 1.4
+	},
+	{
+		"source" : "sina.com.cn",
+		"target" : "360.cn",
+		"value" : 1.2
+	},
+	{
+		"source" : "jd.com",
+		"target" : "list.tmall.com",
+		"value" : 8.3
+	},
+	{
+		"source" : "jd.com",
+		"target" : "taobao.com",
+		"value" : 5.6
+	},
+	{
+		"source" : "jd.com",
+		"target" : "qq.com",
+		"value" : 5.1
+	},
+	{
+		"source" : "jd.com",
+		"target" : "sohu.com",
+		"value" : 5
+	},
+	{
+		"source" : "jd.com",
+		"target" : "baidu.com",
+		"value" : 5
+	},
+	{
+		"source" : "jd.com",
+		"target" : "sina.com.cn",
+		"value" : 2.1
+	},
+	{
+		"source" : "jd.com",
+		"target" : "google.com.hk",
+		"value" : 1.5
+	},
+	{
+		"source" : "jd.com",
+		"target" : "360.cn",
+		"value" : 1.5
+	},
+	{
+		"source" : "jd.com",
+		"target" : "weibo.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "jd.com",
+		"target" : "babytree.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "baidu.com",
+		"value" : 9.7
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "360.cn",
+		"value" : 5
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "sina.com.cn",
+		"value" : 4.7
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "list.tmall.com",
+		"value" : 4.4
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "qq.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "taobao.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "google.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "bilibili.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "youtube.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "weibo.com",
+		"target" : "sohu.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "360.cn",
+		"target" : "baidu.com",
+		"value" : 11.7
+	},
+	{
+		"source" : "360.cn",
+		"target" : "list.tmall.com",
+		"value" : 6.5
+	},
+	{
+		"source" : "360.cn",
+		"target" : "sohu.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "360.cn",
+		"target" : "weibo.com",
+		"value" : 4.8
+	},
+	{
+		"source" : "360.cn",
+		"target" : "taobao.com",
+		"value" : 4.4
+	},
+	{
+		"source" : "360.cn",
+		"target" : "qq.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "360.cn",
+		"target" : "jd.com",
+		"value" : 3.3
+	},
+	{
+		"source" : "360.cn",
+		"target" : "hao123.com",
+		"value" : 2.3
+	},
+	{
+		"source" : "360.cn",
+		"target" : "soso.com",
+		"value" : 2
+	},
+	{
+		"source" : "360.cn",
+		"target" : "sina.com.cn",
+		"value" : 1.9
+	},
+	{
+		"source" : "google.de",
+		"target" : "youtube.com",
+		"value" : 4.7
+	},
+	{
+		"source" : "google.de",
+		"target" : "google.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "google.de",
+		"target" : "wikipedia.org",
+		"value" : 2.4
+	},
+	{
+		"source" : "google.de",
+		"target" : "amazon.de",
+		"value" : 2
+	},
+	{
+		"source" : "google.de",
+		"target" : "facebook.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.de",
+		"target" : "ebay.de",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.de",
+		"target" : "chip.de",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.de",
+		"target" : "ebay-kleinanzeigen.de",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.de",
+		"target" : "reddit.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.de",
+		"target" : "ok.ru",
+		"value" : 0.4
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "youtube.com",
+		"value" : 4.8
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "google.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "facebook.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "wikipedia.org",
+		"value" : 2.3
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "reddit.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "amazon.co.uk",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "bbc.co.uk",
+		"value" : 1.4
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "twitter.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "ebay.co.uk",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.co.uk",
+		"target" : "live.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "youtube.com",
+		"value" : 7.3
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "google.com",
+		"value" : 3.7
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "facebook.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "globo.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "mercadolivre.com.br",
+		"value" : 1.6
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "live.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "wikipedia.org",
+		"value" : 1.3
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "whatsapp.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.br",
+		"target" : "instagram.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "detail.tmall.com",
+		"value" : 6.6
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "weibo.com",
+		"value" : 4.1
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "sohu.com",
+		"value" : 3
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "subject.tmall.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "taobao.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "jd.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "qq.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "360.cn",
+		"value" : 2
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "content.tmall.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "list.tmall.com",
+		"target" : "alipay.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "google.fr",
+		"target" : "youtube.com",
+		"value" : 5.2
+	},
+	{
+		"source" : "google.fr",
+		"target" : "google.com",
+		"value" : 4
+	},
+	{
+		"source" : "google.fr",
+		"target" : "facebook.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "google.fr",
+		"target" : "wikipedia.org",
+		"value" : 2.1
+	},
+	{
+		"source" : "google.fr",
+		"target" : "amazon.fr",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.fr",
+		"target" : "yahoo.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.fr",
+		"target" : "leboncoin.fr",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.fr",
+		"target" : "live.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.fr",
+		"target" : "commentcamarche.net",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.fr",
+		"target" : "twitter.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "google.ru",
+		"target" : "youtube.com",
+		"value" : 6.4
+	},
+	{
+		"source" : "google.ru",
+		"target" : "vk.com",
+		"value" : 5.5
+	},
+	{
+		"source" : "google.ru",
+		"target" : "wikipedia.org",
+		"value" : 2.5
+	},
+	{
+		"source" : "google.ru",
+		"target" : "google.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.ru",
+		"target" : "yandex.ru",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.ru",
+		"target" : "ok.ru",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.ru",
+		"target" : "avito.ru",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.ru",
+		"target" : "mail.ru",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.ru",
+		"target" : "aliexpress.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.ru",
+		"target" : "kinopoisk.ru",
+		"value" : 0.6
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "vk.com",
+		"value" : 5
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "youtube.com",
+		"value" : 3.6
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "mail.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "ok.ru",
+		"value" : 1.8
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "google.ru",
+		"value" : 1.4
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "wikipedia.org",
+		"value" : 1.1
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "avito.ru",
+		"value" : 0.9
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "google.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "aliexpress.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "yandex.ru",
+		"target" : "sberbank.ru",
+		"value" : 0.5
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "google.com",
+		"value" : 19.7
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "youtube.com",
+		"value" : 10.4
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "facebook.com",
+		"value" : 4.9
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "reddit.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "google.ca",
+		"value" : 3
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "google.co.uk",
+		"value" : 1.9
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "amazon.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "google.com.br",
+		"value" : 1.3
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "google.com.au",
+		"value" : 1.2
+	},
+	{
+		"source" : "netflix.com",
+		"target" : "hulu.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.it",
+		"target" : "youtube.com",
+		"value" : 4.3
+	},
+	{
+		"source" : "google.it",
+		"target" : "google.com",
+		"value" : 3.6
+	},
+	{
+		"source" : "google.it",
+		"target" : "facebook.com",
+		"value" : 3
+	},
+	{
+		"source" : "google.it",
+		"target" : "wikipedia.org",
+		"value" : 2.3
+	},
+	{
+		"source" : "google.it",
+		"target" : "amazon.it",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.it",
+		"target" : "repubblica.it",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.it",
+		"target" : "ebay.it",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.it",
+		"target" : "yahoo.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.it",
+		"target" : "libero.it",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.it",
+		"target" : "whatsapp.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "youtube.com",
+		"value" : 4.7
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "google.com",
+		"value" : 4
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "facebook.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "wikipedia.org",
+		"value" : 2.5
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "baidu.com",
+		"value" : 2.2
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "yahoo.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "taobao.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "list.tmall.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "whatsapp.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.hk",
+		"target" : "qq.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "google.com",
+		"value" : 17.8
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "facebook.com",
+		"value" : 6.7
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "youtube.com",
+		"value" : 3
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "google.co.in",
+		"value" : 2.9
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "twitter.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "yahoo.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "slideshare.net",
+		"value" : 1
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "google.co.uk",
+		"value" : 1
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "salesforce.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "linkedin.com",
+		"target" : "google.ca",
+		"value" : 0.9
+	},
+	{
+		"source" : "t.co",
+		"target" : "youtube.com",
+		"value" : 10.8
+	},
+	{
+		"source" : "t.co",
+		"target" : "twitter.com",
+		"value" : 6.5
+	},
+	{
+		"source" : "t.co",
+		"target" : "instagram.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "t.co",
+		"target" : "google.com",
+		"value" : 2.2
+	},
+	{
+		"source" : "t.co",
+		"target" : "facebook.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "t.co",
+		"target" : "twitch.tv",
+		"value" : 1
+	},
+	{
+		"source" : "t.co",
+		"target" : "reddit.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "t.co",
+		"target" : "popads.net",
+		"value" : 0.8
+	},
+	{
+		"source" : "t.co",
+		"target" : "nytimes.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "t.co",
+		"target" : "washingtonpost.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "google.es",
+		"target" : "youtube.com",
+		"value" : 5.2
+	},
+	{
+		"source" : "google.es",
+		"target" : "google.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "google.es",
+		"target" : "facebook.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "google.es",
+		"target" : "wikipedia.org",
+		"value" : 1.9
+	},
+	{
+		"source" : "google.es",
+		"target" : "amazon.es",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.es",
+		"target" : "live.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.es",
+		"target" : "twitter.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.es",
+		"target" : "elpais.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.es",
+		"target" : "yahoo.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.es",
+		"target" : "whatsapp.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "doublepimpssl.com",
+		"value" : 7.5
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "google.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "tororango.com",
+		"value" : 4.9
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "youtube.com",
+		"value" : 4.3
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "reddit.com",
+		"value" : 2.9
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "xvideos.com",
+		"value" : 2
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "facebook.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "google.co.in",
+		"value" : 1.6
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "xhamster.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "pornhub.com",
+		"target" : "bongacams.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "youtube.com",
+		"value" : 18.2
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "vk.com",
+		"value" : 8.1
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "google.com",
+		"value" : 8
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "reddit.com",
+		"value" : 6.7
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "google.ru",
+		"value" : 3.9
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "facebook.com",
+		"value" : 2.3
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "twitter.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "instagram.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "yandex.ru",
+		"value" : 1
+	},
+	{
+		"source" : "twitch.tv",
+		"target" : "amazon.com",
+		"value" : 1
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "aliexpress.com",
+		"value" : 26.7
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "taobao.com",
+		"value" : 11.5
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "baidu.com",
+		"value" : 7.2
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "list.tmall.com",
+		"value" : 5.3
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "yandex.ru",
+		"value" : 3.6
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "qiwi.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "sohu.com",
+		"value" : 3.3
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "buy.tmall.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "soso.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "alipay.com",
+		"target" : "qq.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "iwanttodeliver.com",
+		"value" : 23.2
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "google.com",
+		"value" : 7.7
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "youtube.com",
+		"value" : 4.3
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "google.co.in",
+		"value" : 3.1
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "facebook.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "pornhub.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "yandex.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "xnxx.com",
+		"value" : 2
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "xhamster.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "xvideos.com",
+		"target" : "trafficfactory.biz",
+		"value" : 1.4
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "google.com",
+		"value" : 15.5
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "youtube.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "amazon.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "aliexpress.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "facebook.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "google.ru",
+		"value" : 2.4
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "yandex.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "paypal.com",
+		"value" : 2
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "ebaydesc.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "ebay.com",
+		"target" : "yahoo.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "google.co.jp",
+		"value" : 11.4
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "google.com",
+		"value" : 4
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "youtube.com",
+		"value" : 3.6
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "amazon.co.jp",
+		"value" : 2.4
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "twitter.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "facebook.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "rakuten.co.jp",
+		"value" : 1.4
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "list.tmall.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "wikipedia.org",
+		"value" : 0.9
+	},
+	{
+		"source" : "yahoo.co.jp",
+		"target" : "fc2.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.ca",
+		"target" : "youtube.com",
+		"value" : 5.4
+	},
+	{
+		"source" : "google.ca",
+		"target" : "google.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "google.ca",
+		"target" : "facebook.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "google.ca",
+		"target" : "reddit.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "google.ca",
+		"target" : "wikipedia.org",
+		"value" : 2.3
+	},
+	{
+		"source" : "google.ca",
+		"target" : "amazon.ca",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.ca",
+		"target" : "twitter.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.ca",
+		"target" : "netflix.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.ca",
+		"target" : "live.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.ca",
+		"target" : "instagram.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "youtube.com",
+		"value" : 8.8
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "google.com",
+		"value" : 3.8
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "facebook.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "wikipedia.org",
+		"value" : 2.4
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "live.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "mercadolibre.com.mx",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "slideshare.net",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "whatsapp.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.mx",
+		"target" : "netflix.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "bing.com",
+		"target" : "google.com",
+		"value" : 4.4
+	},
+	{
+		"source" : "bing.com",
+		"target" : "youtube.com",
+		"value" : 4.1
+	},
+	{
+		"source" : "bing.com",
+		"target" : "facebook.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "bing.com",
+		"target" : "wikipedia.org",
+		"value" : 1.2
+	},
+	{
+		"source" : "bing.com",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "bing.com",
+		"target" : "live.com",
+		"value" : 1
+	},
+	{
+		"source" : "bing.com",
+		"target" : "google.co.in",
+		"value" : 1
+	},
+	{
+		"source" : "bing.com",
+		"target" : "msn.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "bing.com",
+		"target" : "microsoft.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "bing.com",
+		"target" : "reddit.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "vk.com",
+		"value" : 13.9
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "yandex.ru",
+		"value" : 9.4
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "youtube.com",
+		"value" : 7.6
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "mail.ru",
+		"value" : 6.3
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "google.ru",
+		"value" : 6.3
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "google.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "instagram.com",
+		"value" : 1
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "facebook.com",
+		"value" : 1
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "google.com.ua",
+		"value" : 0.9
+	},
+	{
+		"source" : "ok.ru",
+		"target" : "avito.ru",
+		"value" : 0.9
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "google.com",
+		"value" : 10.5
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "live.com",
+		"value" : 8.1
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "youtube.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "google.ru",
+		"value" : 4
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "google.co.in",
+		"value" : 3.3
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "yandex.ru",
+		"value" : 1.9
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "office.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "google.com.ua",
+		"value" : 1.6
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "vk.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "microsoft.com",
+		"target" : "facebook.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "reddit.com",
+		"value" : 35.4
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "google.com",
+		"value" : 8.7
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "youtube.com",
+		"value" : 5.3
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "facebook.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "gfycat.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "google.ru",
+		"value" : 1.2
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "redd.it",
+		"value" : 1.1
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "google.ca",
+		"value" : 1
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "twitter.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "imgur.com",
+		"target" : "twitch.tv",
+		"value" : 0.8
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "yandex.ru",
+		"value" : 9.4
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "vk.com",
+		"value" : 8
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "ok.ru",
+		"value" : 5.5
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "youtube.com",
+		"value" : 4.9
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "google.ru",
+		"value" : 3.2
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "google.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "facebook.com",
+		"value" : 1
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "aliexpress.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "avito.ru",
+		"value" : 0.8
+	},
+	{
+		"source" : "mail.ru",
+		"target" : "instagram.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "youtube.com",
+		"value" : 7.2
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "yandex.ru",
+		"value" : 7.1
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "google.ru",
+		"value" : 7.1
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "vk.com",
+		"value" : 7.1
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "google.com",
+		"value" : 3.3
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "google.com.ua",
+		"value" : 1.7
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "ok.ru",
+		"value" : 1.6
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "mail.ru",
+		"value" : 1.5
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "pochta.ru",
+		"value" : 1.5
+	},
+	{
+		"source" : "aliexpress.com",
+		"target" : "alipay.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "google.com",
+		"value" : 14.5
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "youtube.com",
+		"value" : 6.5
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "google.co.in",
+		"value" : 4.1
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "facebook.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "wikipedia.org",
+		"value" : 1.9
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "reddit.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "google.ca",
+		"value" : 1.5
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "google.com.tr",
+		"value" : 1.4
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "thepiratebay.org",
+		"value" : 1.4
+	},
+	{
+		"source" : "imdb.com",
+		"target" : "google.co.uk",
+		"value" : 1.3
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "youtube.com",
+		"value" : 16.6
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "facebook.com",
+		"value" : 7
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "google.com.eg",
+		"value" : 5.9
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "google.com",
+		"value" : 5.6
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "google.co.id",
+		"value" : 5.2
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "baidu.com",
+		"value" : 4
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "yahoo.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "google.co.th",
+		"value" : 2.2
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "360.cn",
+		"value" : 1.5
+	},
+	{
+		"source" : "hao123.com",
+		"target" : "qq.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "msn.com",
+		"target" : "google.com",
+		"value" : 9.6
+	},
+	{
+		"source" : "msn.com",
+		"target" : "live.com",
+		"value" : 9.3
+	},
+	{
+		"source" : "msn.com",
+		"target" : "youtube.com",
+		"value" : 7.3
+	},
+	{
+		"source" : "msn.com",
+		"target" : "facebook.com",
+		"value" : 6
+	},
+	{
+		"source" : "msn.com",
+		"target" : "bing.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "msn.com",
+		"target" : "yandex.ru",
+		"value" : 2.7
+	},
+	{
+		"source" : "msn.com",
+		"target" : "yahoo.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "msn.com",
+		"target" : "google.co.in",
+		"value" : 1.6
+	},
+	{
+		"source" : "msn.com",
+		"target" : "vk.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "msn.com",
+		"target" : "google.co.id",
+		"value" : 1.1
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "baidu.com",
+		"value" : 19
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "list.tmall.com",
+		"value" : 10.9
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "cnblogs.com",
+		"value" : 4.4
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "sohu.com",
+		"value" : 4
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "qq.com",
+		"value" : 3.7
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "taobao.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "google.com",
+		"value" : 3
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "weibo.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "jd.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "csdn.net",
+		"target" : "sina.com.cn",
+		"value" : 2.4
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "google.com",
+		"value" : 8.6
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "youtube.com",
+		"value" : 6.5
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "facebook.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "vk.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "umblr.com",
+		"value" : 2.2
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "google.ru",
+		"value" : 2
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "twitter.com",
+		"value" : 2
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "reddit.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "media.tumblr.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "tumblr.com",
+		"target" : "instagram.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "google.com",
+		"value" : 12.4
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "facebook.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "youtube.com",
+		"value" : 2.9
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "google.co.in",
+		"value" : 2.3
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "support.wordpress.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "gravatar.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "twitter.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "google.co.id",
+		"value" : 1
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "yahoo.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "wordpress.com",
+		"target" : "blogger.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "google.com",
+		"value" : 14.5
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "youtube.com",
+		"value" : 9.1
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "google.ru",
+		"value" : 8
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "vk.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "reddit.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "yandex.ru",
+		"value" : 2.6
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "wikipedia.org",
+		"value" : 2.5
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "nocookie.net",
+		"value" : 2.4
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "google.com.ua",
+		"value" : 1.8
+	},
+	{
+		"source" : "wikia.com",
+		"target" : "google.ca",
+		"value" : 1.7
+	},
+	{
+		"source" : "office.com",
+		"target" : "microsoftonline.com",
+		"value" : 23.4
+	},
+	{
+		"source" : "office.com",
+		"target" : "google.com",
+		"value" : 11.5
+	},
+	{
+		"source" : "office.com",
+		"target" : "live.com",
+		"value" : 3
+	},
+	{
+		"source" : "office.com",
+		"target" : "youtube.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "office.com",
+		"target" : "facebook.com",
+		"value" : 2.3
+	},
+	{
+		"source" : "office.com",
+		"target" : "office365.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "office.com",
+		"target" : "microsoft.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "office.com",
+		"target" : "google.co.in",
+		"value" : 1.2
+	},
+	{
+		"source" : "office.com",
+		"target" : "google.ru",
+		"value" : 1.2
+	},
+	{
+		"source" : "office.com",
+		"target" : "google.ca",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "youtube.com",
+		"value" : 7.3
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "google.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "facebook.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "eksisozluk.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "sahibinden.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "hurriyet.com.tr",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "n11.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "live.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "hepsiburada.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.tr",
+		"target" : "instagram.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "xhamster.com",
+		"value" : 7.2
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "pornhub.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "xvideos.com",
+		"value" : 3.5
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "jsmjmp.com",
+		"value" : 2.3
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "google.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "pornhd.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "gotporn.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "xnxx.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "youporn.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "livejasmin.com",
+		"target" : "fwbntw.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "google.co.jp",
+		"value" : 16.7
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "google.com",
+		"value" : 5.7
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "yahoo.co.jp",
+		"value" : 5.2
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "youtube.com",
+		"value" : 3.3
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "amazon.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "list.tmall.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "rakuten.co.jp",
+		"value" : 2
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "facebook.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "google.com.tw",
+		"value" : 1.7
+	},
+	{
+		"source" : "amazon.co.jp",
+		"target" : "twitter.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "mes5apps.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "google.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "popads.net",
+		"value" : 1.4
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "lazada.co.id",
+		"value" : 1.3
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "youtube.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "trackingclick.net",
+		"value" : 1.1
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "nextoptim.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "application-77my.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "shiltirs.com",
+		"value" : 1
+	},
+	{
+		"source" : "deloton.com",
+		"target" : "exdynsrv.com",
+		"value" : 1
+	},
+	{
+		"source" : "apple.com",
+		"target" : "google.com",
+		"value" : 16.5
+	},
+	{
+		"source" : "apple.com",
+		"target" : "youtube.com",
+		"value" : 4.8
+	},
+	{
+		"source" : "apple.com",
+		"target" : "google.ru",
+		"value" : 3.5
+	},
+	{
+		"source" : "apple.com",
+		"target" : "facebook.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "apple.com",
+		"target" : "google.co.in",
+		"value" : 2
+	},
+	{
+		"source" : "apple.com",
+		"target" : "icloud.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "apple.com",
+		"target" : "vk.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "apple.com",
+		"target" : "yandex.ru",
+		"value" : 1.7
+	},
+	{
+		"source" : "apple.com",
+		"target" : "google.com.tr",
+		"value" : 1.2
+	},
+	{
+		"source" : "apple.com",
+		"target" : "google.ca",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "youtube.com",
+		"value" : 5.7
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "google.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "facebook.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "reddit.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "wikipedia.org",
+		"value" : 2.1
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "ebay.com.au",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "live.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "netflix.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "twitter.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.au",
+		"target" : "wikia.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "google.com",
+		"value" : 11.3
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "ebay.com",
+		"value" : 4
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "facebook.com",
+		"value" : 3.8
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "youtube.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "ebay.de",
+		"value" : 1.2
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "ebay.co.uk",
+		"value" : 0.9
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "yahoo.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "amazon.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "google.co.uk",
+		"value" : 0.8
+	},
+	{
+		"source" : "paypal.com",
+		"target" : "google.de",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "youtube.com",
+		"value" : 5.3
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "facebook.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "google.com",
+		"value" : 3.8
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "yahoo.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "pixnet.net",
+		"value" : 2.7
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "wikipedia.org",
+		"value" : 2.1
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "gamer.com.tw",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "ptt.cc",
+		"value" : 1.6
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "mobile01.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.com.tw",
+		"target" : "pchome.com.tw",
+		"value" : 1
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "google.com",
+		"value" : 12.3
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "facebook.com",
+		"value" : 9.6
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "youtube.com",
+		"value" : 6.8
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "google.co.in",
+		"value" : 2.4
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "google.co.id",
+		"value" : 1.5
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "google.com.tr",
+		"value" : 1.3
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "google.com.br",
+		"value" : 1.2
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "twitter.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "yahoo.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "whatsapp.com",
+		"target" : "myway.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "popads.net",
+		"target" : "t.co",
+		"value" : 5
+	},
+	{
+		"source" : "popads.net",
+		"target" : "youtube.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "popads.net",
+		"target" : "google.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "popads.net",
+		"target" : "nextoptim.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "popads.net",
+		"target" : "lazada.co.id",
+		"value" : 1.7
+	},
+	{
+		"source" : "popads.net",
+		"target" : "blibli.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "popads.net",
+		"target" : "deloton.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "popads.net",
+		"target" : "buzzadnetwork.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "popads.net",
+		"target" : "higheurest.com",
+		"value" : 1
+	},
+	{
+		"source" : "popads.net",
+		"target" : "exdynsrv.com",
+		"value" : 1
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "google.com",
+		"value" : 6.5
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "yahoo.com",
+		"value" : 6.4
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "facebook.com",
+		"value" : 6.4
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "bing.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "blogger.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "touristtube.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "askfrank.net",
+		"value" : 0.4
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "techgeek365.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "youtube.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "blogspot.com",
+		"target" : "zopbuy.com",
+		"value" : 0.3
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "pornhub.com",
+		"value" : 6.4
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "vk.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "xvideos.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "yandex.ru",
+		"value" : 4
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "google.ru",
+		"value" : 3.9
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "youtube.com",
+		"value" : 3.5
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "chaturbate.com",
+		"value" : 2
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "xnxx.com",
+		"value" : 2
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "google.com.ua",
+		"value" : 1.9
+	},
+	{
+		"source" : "bongacams.com",
+		"target" : "google.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "taobao.com",
+		"value" : 23.9
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "list.tmall.com",
+		"value" : 19.8
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "buy.tmall.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "baidu.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "google.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "jd.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "pages.tmall.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "google.com.hk",
+		"value" : 0.9
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "youtube.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "detail.tmall.com",
+		"target" : "tmall.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.pl",
+		"target" : "youtube.com",
+		"value" : 5.5
+	},
+	{
+		"source" : "google.pl",
+		"target" : "facebook.com",
+		"value" : 3
+	},
+	{
+		"source" : "google.pl",
+		"target" : "google.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "google.pl",
+		"target" : "wikipedia.org",
+		"value" : 2.3
+	},
+	{
+		"source" : "google.pl",
+		"target" : "allegro.pl",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.pl",
+		"target" : "onet.pl",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.pl",
+		"target" : "wp.pl",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.pl",
+		"target" : "olx.pl",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.pl",
+		"target" : "ceneo.pl",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.pl",
+		"target" : "cda.pl",
+		"value" : 0.6
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "office.com",
+		"value" : 43
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "office365.com",
+		"value" : 5.3
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "google.com",
+		"value" : 4.7
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "live.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "microsoft.com",
+		"value" : 1
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "youtube.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "windowsazure.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "azure.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "swayam.gov.in",
+		"value" : 0.8
+	},
+	{
+		"source" : "microsoftonline.com",
+		"target" : "facebook.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "github.com",
+		"target" : "google.com",
+		"value" : 13.7
+	},
+	{
+		"source" : "github.com",
+		"target" : "google.co.in",
+		"value" : 3.2
+	},
+	{
+		"source" : "github.com",
+		"target" : "youtube.com",
+		"value" : 3
+	},
+	{
+		"source" : "github.com",
+		"target" : "stackoverflow.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "github.com",
+		"target" : "facebook.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "github.com",
+		"target" : "reddit.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "github.com",
+		"target" : "google.ru",
+		"value" : 1
+	},
+	{
+		"source" : "github.com",
+		"target" : "google.ca",
+		"value" : 0.8
+	},
+	{
+		"source" : "github.com",
+		"target" : "raw.githubusercontent.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "github.com",
+		"target" : "google.co.uk",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "youtube.com",
+		"value" : 6.5
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "google.com",
+		"value" : 6.2
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "facebook.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "wikipedia.org",
+		"value" : 1.2
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "indoxxi.net",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "tokopedia.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "bukalapak.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "scribd.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.co.id",
+		"target" : "instagram.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "google.com",
+		"value" : 4.3
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "pornhub.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "livejasmin.com",
+		"value" : 3
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "xvideos.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "xhamsterlive.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "youtube.com",
+		"value" : 2.3
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "snap-affairs.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "google.co.in",
+		"value" : 1.3
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "txxx.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "xhamster.com",
+		"target" : "facebook.com",
+		"value" : 1.2
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "google.com",
+		"value" : 14.2
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "google.co.in",
+		"value" : 7.6
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "github.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "youtube.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "google.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "microsoft.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "facebook.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "jsfiddle.net",
+		"value" : 1.3
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "w3schools.com",
+		"value" : 1
+	},
+	{
+		"source" : "stackoverflow.com",
+		"target" : "google.com.ua",
+		"value" : 1
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "google.com",
+		"value" : 17.6
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "facebook.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "youtube.com",
+		"value" : 3
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "google.co.in",
+		"value" : 2.8
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "pinimg.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "google.ru",
+		"value" : 2.1
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "google.com.ua",
+		"value" : 1.5
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "google.co.id",
+		"value" : 1.1
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "yandex.ru",
+		"value" : 1.1
+	},
+	{
+		"source" : "pinterest.com",
+		"target" : "twitter.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "google.de",
+		"value" : 20.8
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "youtube.com",
+		"value" : 4.5
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "ebay.de",
+		"value" : 3.7
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "google.com",
+		"value" : 3.5
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "facebook.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "google.at",
+		"value" : 2
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "amazon.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "amazon.co.uk",
+		"value" : 0.9
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "web.de",
+		"value" : 0.8
+	},
+	{
+		"source" : "amazon.de",
+		"target" : "ebay-kleinanzeigen.de",
+		"value" : 0.8
+	},
+	{
+		"source" : "diply.com",
+		"target" : "facebook.com",
+		"value" : 15.5
+	},
+	{
+		"source" : "diply.com",
+		"target" : "google.com",
+		"value" : 10.4
+	},
+	{
+		"source" : "diply.com",
+		"target" : "youtube.com",
+		"value" : 6.2
+	},
+	{
+		"source" : "diply.com",
+		"target" : "google.co.in",
+		"value" : 1.3
+	},
+	{
+		"source" : "diply.com",
+		"target" : "google.ca",
+		"value" : 1.3
+	},
+	{
+		"source" : "diply.com",
+		"target" : "boredpanda.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "diply.com",
+		"target" : "reddit.com",
+		"value" : 1
+	},
+	{
+		"source" : "diply.com",
+		"target" : "buzzfeed.com",
+		"value" : 1
+	},
+	{
+		"source" : "diply.com",
+		"target" : "instagram.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "diply.com",
+		"target" : "google.com.ph",
+		"value" : 0.7
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "google.co.uk",
+		"value" : 18.4
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "google.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "youtube.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "amazon.com",
+		"value" : 3.7
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "facebook.com",
+		"value" : 3.2
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "ebay.co.uk",
+		"value" : 3
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "reddit.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "google.ie",
+		"value" : 1.1
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "amazon.de",
+		"value" : 1
+	},
+	{
+		"source" : "amazon.co.uk",
+		"target" : "google.ru",
+		"value" : 1
+	},
+	{
+		"source" : "so.com",
+		"target" : "baidu.com",
+		"value" : 41.2
+	},
+	{
+		"source" : "so.com",
+		"target" : "sohu.com",
+		"value" : 10.1
+	},
+	{
+		"source" : "so.com",
+		"target" : "soso.com",
+		"value" : 9.3
+	},
+	{
+		"source" : "so.com",
+		"target" : "hao123.com",
+		"value" : 9.1
+	},
+	{
+		"source" : "so.com",
+		"target" : "taobao.com",
+		"value" : 8.4
+	},
+	{
+		"source" : "so.com",
+		"target" : "360.cn",
+		"value" : 1.7
+	},
+	{
+		"source" : "so.com",
+		"target" : "qq.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "so.com",
+		"target" : "list.tmall.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "so.com",
+		"target" : "sina.com.cn",
+		"value" : 0.7
+	},
+	{
+		"source" : "so.com",
+		"target" : "sogou.com",
+		"value" : 0.3
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "youtube.com",
+		"value" : 9.1
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "google.com",
+		"value" : 3.6
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "facebook.com",
+		"value" : 2.9
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "mercadolibre.com.ar",
+		"value" : 2.2
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "wikipedia.org",
+		"value" : 2.2
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "live.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "infobae.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "clarin.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.ar",
+		"target" : "lanacion.com.ar",
+		"value" : 0.7
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "google.com.vn",
+		"value" : 14.6
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "facebook.com",
+		"value" : 12.9
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "youtube.com",
+		"value" : 12
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "google.com",
+		"value" : 5.6
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "zing.vn",
+		"value" : 2.2
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "kenh14.vn",
+		"value" : 1
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "vnexpress.net",
+		"value" : 0.9
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "24h.com.vn",
+		"value" : 0.9
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "phimmoi.net",
+		"value" : 0.8
+	},
+	{
+		"source" : "coccoc.com",
+		"target" : "lazada.vn",
+		"value" : 0.7
+	},
+	{
+		"source" : "soso.com",
+		"target" : "baidu.com",
+		"value" : 18.5
+	},
+	{
+		"source" : "soso.com",
+		"target" : "so.com",
+		"value" : 8.4
+	},
+	{
+		"source" : "soso.com",
+		"target" : "360.cn",
+		"value" : 8.3
+	},
+	{
+		"source" : "soso.com",
+		"target" : "sohu.com",
+		"value" : 5.2
+	},
+	{
+		"source" : "soso.com",
+		"target" : "qq.com",
+		"value" : 4.7
+	},
+	{
+		"source" : "soso.com",
+		"target" : "alipay.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "soso.com",
+		"target" : "hao123.com",
+		"value" : 4.3
+	},
+	{
+		"source" : "soso.com",
+		"target" : "sina.com.cn",
+		"value" : 4.3
+	},
+	{
+		"source" : "soso.com",
+		"target" : "tmall.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "soso.com",
+		"target" : "taobao.com",
+		"value" : 3.7
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "google.com",
+		"value" : 12.4
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "youtube.com",
+		"value" : 5
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "facebook.com",
+		"value" : 3.5
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "google.ru",
+		"value" : 2.9
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "google.co.in",
+		"value" : 2.8
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "adobelogin.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "yandex.ru",
+		"value" : 2.5
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "vk.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "softonic.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "adobe.com",
+		"target" : "google.com.ua",
+		"value" : 1.3
+	},
+	{
+		"source" : "espn.com",
+		"target" : "google.com",
+		"value" : 24
+	},
+	{
+		"source" : "espn.com",
+		"target" : "reddit.com",
+		"value" : 8.3
+	},
+	{
+		"source" : "espn.com",
+		"target" : "facebook.com",
+		"value" : 5.1
+	},
+	{
+		"source" : "espn.com",
+		"target" : "youtube.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "espn.com",
+		"target" : "yahoo.com",
+		"value" : 3.8
+	},
+	{
+		"source" : "espn.com",
+		"target" : "twitter.com",
+		"value" : 2.2
+	},
+	{
+		"source" : "espn.com",
+		"target" : "amazon.com",
+		"value" : 1
+	},
+	{
+		"source" : "espn.com",
+		"target" : "cnn.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "espn.com",
+		"target" : "google.ca",
+		"value" : 0.9
+	},
+	{
+		"source" : "espn.com",
+		"target" : "nfl.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "youtube.com",
+		"value" : 6.6
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "google.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "wikipedia.org",
+		"value" : 2
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "olx.ua",
+		"value" : 1.6
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "vk.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "prom.ua",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "rozetka.com.ua",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "sinoptik.ua",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "ukr.net",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.ua",
+		"target" : "privat24.ua",
+		"value" : 0.6
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "list.tmall.com",
+		"value" : 22.1
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "sohu.com",
+		"value" : 8.5
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "baidu.com",
+		"value" : 8.2
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "qq.com",
+		"value" : 7.1
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "taobao.com",
+		"value" : 6
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "weibo.com",
+		"value" : 5.2
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "jd.com",
+		"value" : 4.8
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "360.cn",
+		"value" : 4.1
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "sina.com.cn",
+		"value" : 3.2
+	},
+	{
+		"source" : "tianya.cn",
+		"target" : "google.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "google.com",
+		"value" : 27.9
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "youtube.com",
+		"value" : 4.8
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "google.co.in",
+		"value" : 3.5
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "google.ru",
+		"value" : 2.2
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "google.co.id",
+		"value" : 1.6
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "facebook.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "google.com.ua",
+		"value" : 1.3
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "google.com.tr",
+		"value" : 0.8
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "vk.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "googleusercontent.com",
+		"target" : "yahoo.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "iwanttodeliver.com",
+		"value" : 27.9
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "google.com",
+		"value" : 8.8
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "youtube.com",
+		"value" : 4.6
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "facebook.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "xvideos.com",
+		"value" : 4
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "google.co.in",
+		"value" : 3.8
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "google.com.eg",
+		"value" : 2.1
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "myway.com",
+		"value" : 2.1
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "yandex.ru",
+		"value" : 1.8
+	},
+	{
+		"source" : "xnxx.com",
+		"target" : "trafficfactory.biz",
+		"value" : 1.7
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "youtube.com",
+		"value" : 35.3
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "google.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "ummy.net",
+		"value" : 3.3
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "facebook.com",
+		"value" : 2.6
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "google.co.in",
+		"value" : 1.8
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "yandex.ru",
+		"value" : 1.8
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "myway.com",
+		"value" : 1.8
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "vk.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "googlevideo.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "savefrom.net",
+		"target" : "google.co.id",
+		"value" : 1.5
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "youtube.com",
+		"value" : 9.7
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "google.com",
+		"value" : 6.1
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "wikipedia.org",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "facebook.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "yahoo.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "hamariweb.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "olx.com.pk",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "daraz.pk",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "softonic.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "google.com.pk",
+		"target" : "stackoverflow.com",
+		"value" : 0.4
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "google.co.in",
+		"value" : 28.5
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "flipkart.com",
+		"value" : 7.4
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "youtube.com",
+		"value" : 7.2
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "google.com",
+		"value" : 6.6
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "facebook.com",
+		"value" : 2
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "amazon.com",
+		"value" : 1.6
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "ebay.in",
+		"value" : 1.3
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "snapdeal.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "amazon.in",
+		"target" : "primevideo.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "google.co.jp",
+		"value" : 6.7
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "youtube.com",
+		"value" : 4.7
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "livedoor.com",
+		"value" : 3.6
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "rakuten.co.jp",
+		"value" : 2.9
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "kakaku.com",
+		"value" : 2.8
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "google.com",
+		"value" : 2.5
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "2ch.net",
+		"value" : 2.4
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "twitter.com",
+		"value" : 2.4
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "google.com.tw",
+		"value" : 1.4
+	},
+	{
+		"source" : "nicovideo.jp",
+		"target" : "yahoo.co.jp",
+		"value" : 1.2
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "google.com",
+		"value" : 20
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "youtube.com",
+		"value" : 5
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "facebook.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "vk.com",
+		"value" : 1.4
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "google.ru",
+		"value" : 1.2
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "yahoo.com",
+		"value" : 1
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "google.co.in",
+		"value" : 0.9
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "google.co.id",
+		"value" : 0.9
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "live.com",
+		"value" : 0.9
+	},
+	{
+		"source" : "dropbox.com",
+		"target" : "reddit.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "youtube.com",
+		"value" : 8.5
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "google.com",
+		"value" : 3.7
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "pantip.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "facebook.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "wikipedia.org",
+		"value" : 1.4
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "movie2free.com",
+		"value" : 1.3
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "sanook.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "lazada.co.th",
+		"value" : 0.9
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "kapook.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.co.th",
+		"target" : "dek-d.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "youtube.com",
+		"value" : 10.1
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "facebook.com",
+		"value" : 3.9
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "google.com",
+		"value" : 3.4
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "wikipedia.org",
+		"value" : 1.8
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "youm7.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "xnxx.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "yahoo.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "mawdoo3.com",
+		"value" : 0.6
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "souq.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.com.eg",
+		"target" : "yallakora.com",
+		"value" : 0.5
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "youtube.com",
+		"value" : 9.3
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "google.com",
+		"value" : 5.1
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "wikipedia.org",
+		"value" : 1.9
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "facebook.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "live.com",
+		"value" : 1
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "mawdoo3.com",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "moe.gov.sa",
+		"value" : 0.8
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "yahoo.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "moi.gov.sa",
+		"value" : 0.7
+	},
+	{
+		"source" : "google.com.sa",
+		"target" : "souq.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "protect-your-privacy.net",
+		"value" : 11.7
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "google.com",
+		"value" : 8.3
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "youtube.com",
+		"value" : 5
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "mellowads.com",
+		"value" : 4.2
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "facebook.com",
+		"value" : 1.9
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "imdb.com",
+		"value" : 1.7
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "exoclick.com",
+		"value" : 1.5
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "google.ca",
+		"value" : 1.4
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "reddit.com",
+		"value" : 1.1
+	},
+	{
+		"source" : "thepiratebay.org",
+		"target" : "torrentz2.eu",
+		"value" : 1
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "google.com.tw",
+		"value" : 36.7
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "google.com",
+		"value" : 5.3
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "facebook.com",
+		"value" : 4.7
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "youtube.com",
+		"value" : 3.1
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "google.com.hk",
+		"value" : 2.8
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "yahoo.com",
+		"value" : 2.7
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "xuite.net",
+		"value" : 0.7
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "ptt.cc",
+		"value" : 0.7
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "mobile01.com",
+		"value" : 0.7
+	},
+	{
+		"source" : "pixnet.net",
+		"target" : "gamer.com.tw",
+		"value" : 0.6
+	}
+]
+}
